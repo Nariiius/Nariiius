@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Nariiius/Nariiius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I’m Nariiius
 
-Here are some ideas to get you started:
+## About
+I’m at the beginning of my journey, focused on learning, experimenting, and building consistently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=f5f5f5)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=f5f5f5)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=f5f5f5)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=f5f5f5)
+![Rust](https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=f5f5f5)
+![Swift](https://img.shields.io/badge/Swift-111111?style=flat-square&logo=swift&logoColor=f5f5f5)
+
+</div>
