@@ -6,13 +6,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=5000&color=0891b2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Nariiius&repeat=false" alt="Typing SVG - Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=5000&color=0891b2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Nariiius&repeat=false&height=50" alt="Typing SVG - Header" />
   </a>
-</p>
-
-<p align="center">
+  <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=0a9396&center=true&vCenter=true&width=650&lines=At+the+start+line;learning+some+fundamentals;experimenting+with+new+concepts;and+touching+grass+once+in+a+while" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=0a9396&center=true&vCenter=true&width=650&lines=At+the+start+line;learning+some+fundamentals;experimenting+with+new+concepts;and+touching+grass+once+in+a+while&height=35" alt="Typing SVG" />
   </a>
 </p>
 
