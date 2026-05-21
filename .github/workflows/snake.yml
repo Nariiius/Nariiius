@@ -36,10 +36,19 @@ jobs:
       - name: update followers badge in README.md
         run: |
           COUNT="${{ steps.followers.outputs.count }}"
-          NEW_BADGE="  <a href=\"https://www.github.com/nariiius\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://img.shields.io/badge/Followers-${COUNT}-0891b2?logo=github&style=for-the-badge&labelColor=1c1917\" alt=\"Followers\" align=\"middle\" /><\/a>"
+          NEW_BADGE='  <a href="https://www.github.com/nariiius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Followers-'"$COUNT"'-0891b2?logo=github&style=for-the-badge&labelColor=1c1917" alt="Followers" align="middle" /></a>'
           
-          # Use perl to replace multi-line comments matching START/END tags
-          perl -i -0777 -pe "s/(<!-- START_FOLLOWERS_BADGE -->).*?(<!-- END_FOLLOWERS_BADGE -->)/\$1\n${NEW_BADGE}\n\$2/s" README.md
+          # Write exact replacement text to a file (prevents quoting issues)
+          printf "%s\n" "$NEW_BADGE" > .followers_badge.txt
+          
+          # Replace content between markers with the file content
+          perl -0777 -i -pe '
+            my $ins = do { local (@ARGV, $/) = ".followers_badge.txt"; <> };
+            chomp($ins);
+            s/(<!-- START_FOLLOWERS_BADGE -->).*?(<!-- END_FOLLOWERS_BADGE -->)/$1\n$ins\n$2/s;
+          ' README.md
+          
+          rm -f .followers_badge.txt
 
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
