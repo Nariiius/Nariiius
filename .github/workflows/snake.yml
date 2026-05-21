@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake and Update Profile
 
 on:
   schedule:
@@ -20,6 +20,27 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
+      - name: fetch live followers count
+        id: followers
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FOLLOWERS=$(curl -s -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            https://api.github.com/users/nariiius | jq '.followers')
+          if [ -z "$FOLLOWERS" ] || [ "$FOLLOWERS" = "null" ]; then
+            FOLLOWERS="5"
+          fi
+          echo "count=$FOLLOWERS" >> $GITHUB_OUTPUT
+
+      - name: update followers badge in README.md
+        run: |
+          COUNT="${{ steps.followers.outputs.count }}"
+          NEW_BADGE="  <a href=\"https://www.github.com/nariiius\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://img.shields.io/badge/Followers-${COUNT}-0891b2?logo=github&style=for-the-badge&labelColor=1c1917\" alt=\"Followers\" align=\"middle\" /><\/a>"
+          
+          # Use perl to replace multi-line comments matching START/END tags
+          perl -i -0777 -pe "s/(<!-- START_FOLLOWERS_BADGE -->).*?(<!-- END_FOLLOWERS_BADGE -->)/\$1\n${NEW_BADGE}\n\$2/s" README.md
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,6 +50,13 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: commit and push updated README if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update live followers count to ${{ steps.followers.outputs.count }}" && git push)
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
