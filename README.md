@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://www.github.com/nariiius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nariiius?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=Followers" alt="Followers" style="vertical-align: middle; margin-right: 8px;" /></a>
-  <a href="https://github.com/nariiius/nariiius"><img src="https://api.visitorbadge.io/api/visitors?path=nariiius.nariiius&label=Profile%20Views&labelColor=%231c1917&countColor=%230891b2" alt="Profile Views" style="vertical-align: middle; margin-right: 8px;" /></a>
-  <a href="mailto:nariushere@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;" /></a>
+  <a href="https://www.github.com/nariiius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nariiius?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=Followers" alt="Followers" align="middle" /></a>
+  <a href="https://github.com/nariiius/nariiius"><img src="https://komarev.com/ghpvc/?username=nariiius&label=Profile%20Views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="Profile Views" align="middle" /></a>
+  <a href="mailto:nariushere@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="middle" /></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/verilog-%2300599C.svg?style=for-the-badge" alt="Verilog" />
+  <img src="https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=riscv&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -28,30 +28,41 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c" alt="FFmpeg" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" style="vertical-align: middle; margin-right: 8px;" />
-  <a href="https://github.com/yaagl/yet-another-anime-game-launcher" target="_blank" rel="noreferrer" style="vertical-align: middle;"><img src="https://github.com/yaagl.png" height="28" style="vertical-align: middle; margin-right: 4px; border-radius: 4px;" /><img src="https://img.shields.io/badge/YAAGL-%237C3AED.svg?style=for-the-badge" alt="YAAGL" style="vertical-align: middle;" /></a>
+  <img src="https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" align="middle" />
+  <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" align="middle" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" align="middle" />
+  <img src="https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white" alt="Ghostty" align="middle" />
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" align="middle" />
+  <a href="https://github.com/yaagl/yet-another-anime-game-launcher" target="_blank" rel="noreferrer">
+    <img src="https://github.com/yaagl.png" height="28" align="middle" />
+    <img src="https://img.shields.io/badge/YAAGL-000000?style=for-the-badge" alt="YAAGL" align="middle" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nariiius&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
+  <img src="https://github-readme-stats.shion.dev/api?username=nariiius&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48.5%" align="middle" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nariiius&theme=react-dark&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" width="48.5%" align="middle" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake.svg" />
