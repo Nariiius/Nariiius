@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.github.com/nariiius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nariiius?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=Followers" alt="Followers" align="middle" /></a>
+  <a href="https://www.github.com/nariiius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Followers-5-0891b2?logo=github&style=for-the-badge&labelColor=1c1917" alt="Followers" align="middle" /></a>
   <a href="https://github.com/nariiius/nariiius"><img src="https://komarev.com/ghpvc/?username=nariiius&label=Profile%20Views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="Profile Views" align="middle" /></a>
   <a href="https://discord.com/users/592337531983626240" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="middle" /></a>
   <a href="mailto:nariushere@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="middle" /></a>
