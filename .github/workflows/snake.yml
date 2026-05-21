@@ -44,8 +44,8 @@ jobs:
           # Replace content between markers with the file content
           perl -0777 -i -pe '
             my $ins = do { open(my $fh, "<", ".followers_badge.txt") or die; local $/; <$fh> };
-            chomp($ins);
-            s/(<!-- START_FOLLOWERS_BADGE -->).*?(<!-- END_FOLLOWERS_BADGE -->)/$1\n$ins\n$2/s;
+            $ins =~ s/\s+$//;
+            s/(<!-- START_FOLLOWERS_BADGE -->).*?(<!-- END_FOLLOWERS_BADGE -->)/$1\n$ins\n  $2/s;
           ' README.md
           
           rm -f .followers_badge.txt
