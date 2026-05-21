@@ -51,12 +51,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=nariiius&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<div align="center">
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake.svg" />
   </picture>
-</div>
+</p>
