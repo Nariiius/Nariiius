@@ -58,8 +58,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nariiius&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" align="middle" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nariiius&theme=react-dark&bg_color=00000000&hide_border=true&area=true&days=20" alt="Activity Graph" width="48%" align="middle" />
+  <img src="https://github-readme-stats.shion.dev/api?username=nariiius&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49.5%" align="middle" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nariiius&theme=react-dark&bg_color=00000000&hide_border=true&area=true&days=14" alt="Activity Graph" width="49.5%" align="middle" />
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake-dark.svg" />
