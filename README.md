@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=nariiius&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="38%" align="middle" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nariiius&theme=react-dark&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" width="58%" align="middle" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nariiius&theme=react-dark&bg_color=00000000&hide_border=true&area=true&height=200" alt="Activity Graph" width="58%" align="middle" />
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake-dark.svg" />
