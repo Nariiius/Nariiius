@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://www.github.com/nariiius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nariiius?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=Followers" alt="Followers" align="middle" /></a>
   <a href="https://github.com/nariiius/nariiius"><img src="https://komarev.com/ghpvc/?username=nariiius&label=Profile%20Views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="Profile Views" align="middle" /></a>
+  <a href="https://discord.com/users/592337531983626240" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="middle" /></a>
   <a href="mailto:nariushere@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="middle" /></a>
 </p>
 
@@ -58,8 +59,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nariiius&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48.5%" align="middle" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nariiius&theme=react-dark&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" width="48.5%" align="middle" />
+  <img src="https://github-readme-stats.shion.dev/api?username=nariiius&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="38%" align="middle" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nariiius&theme=react-dark&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" width="58%" align="middle" />
 </p>
 
 <p align="center">
