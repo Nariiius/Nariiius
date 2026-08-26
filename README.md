@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" loading="lazy" decoding="async" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" loading="lazy" decoding="async" />
 </p>
 
@@ -33,15 +32,11 @@
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" loading="lazy" decoding="async" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" loading="lazy" decoding="async" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" loading="lazy" decoding="async" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" loading="lazy" decoding="async" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" loading="lazy" decoding="async" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c" alt="FFmpeg" loading="lazy" decoding="async" />
@@ -57,8 +52,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nariiius&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&include_all_commits=true&count_private=true&card_width=456" alt="GitHub Stats" width="36%" align="middle" loading="lazy" decoding="async" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=nariiius&theme=react-dark&bg_color=00000000&hide_border=true&area=true&days=30&height=325" alt="Activity Graph" width="59%" align="middle" loading="lazy" decoding="async" />
-  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nariiius/nariiius/output/github-snake.svg" />
