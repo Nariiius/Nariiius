@@ -1,8 +1,4 @@
 <p align="center">
-  <!-- START_FOLLOWERS_BADGE -->
-  <a href="https://www.github.com/nariiius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Followers-9-0891b2?logo=github&style=for-the-badge&labelColor=1c1917" alt="Followers" align="middle" /></a>
-  <!-- END_FOLLOWERS_BADGE -->
-  <a href="https://github.com/nariiius/nariiius"><img src="https://komarev.com/ghpvc/?username=nariiius&label=Profile%20Views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="Profile Views" align="middle" /></a>
   <a href="https://discord.com/users/592337531983626240" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="middle" /></a>
   <a href="mailto:nariushere@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="middle" /></a>
 </p>
@@ -49,6 +45,12 @@
   <img src="https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white" alt="Ghostty" align="middle" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" align="middle" loading="lazy" decoding="async" />
   <a href="https://github.com/yaagl/yet-another-anime-game-launcher" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YAAGL-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAA0VXHyAAADmElEQVQ4EYWSS0xjVRjH%2F7f39kFb%2Brp90zIzxeJAwZaXMxJlCIxjhLBwElHHhRsfMdGwcOWiia7ImHHlyoUao4aMUTM6PjKSgYzGYV60MC0t2DBQeqFAaXv7fl1uve3KjfGc5OSc853zO9%2F%2FO3%2Fgf9qox6O5ODXW%2F1%2FHiEbg8PAXM%2Fj6JIXqXZ35YlDYUp47N95r0RvKHJF43WKmB1OJ3NyjncObS0vLgX%2FDqMaCqFZUBCWRZ3Is7fV%2BMN3b3fOh0WQ8Xa3WeJmcFC0s%2FAiKTAzZ7NZ5uZy89MNV72S1yq0ZrC8sU%2FX6IpVgso5yMXvrp%2BvsxCsvvzRrt9nAslnUapyIq5VgNLRC3aohqBbqQnfP%2Bfn18O5VR0dbI1OIGCYhlkjF7hvz0cfPDI94dTpaUMOjLnSSEiEQ%2FgMrW8tgqzFUyin097v6fCFSZrBO%2BZoAu326pDFOXG5RnnqeK%2BblWZbFUSKFne0dhMMbUClO4qT5FAp5oJTnEWUi6DhteWd0dNTWBDQGockNNP0cRdSEgoiQTgmQfQb7DINCkYdarIO4JoWIEGPlwR3wnEg%2FPO5%2BsXFRZO2wvfued%2BZbmtZYPYMesOkUJFISz4w8iTa7FfXjCthCCv4NHzgOWIusYi%2BWFmJtkw0AZT5BMxoT8XQ%2Bn8PXn3%2BJTlcP5HILwoEg9qPbUKh1GD4ziRrBQ0F1wOOmkDzag9mu71HZoCPjWwfrIwNTTq1a1dftsKLX7YLZYoK%2BRQxkkgJAC6O9C%2FsxDuVKDbTODl6Q2qrUtcR2w3OiRhqRza3qsn%2FV97e0HT%2BHksjni1AYTegcOotMqY7FxTuQyRTocJiF%2BuRgMBjRZrGQCokWTUB4dekT0uGq3ycsCB0UweVYlDMZHMSi2N7canwomGhoNRmLRI6PS5zWQsIfvrX74HaYajrx7MgIPXZhbIApsPDIpJi9cgU5wUiERMuZ2ruyuZ1g8Ktv5mYSiUj248%2FeXw5tHATu%2BfxFU7t6gGxIMKhJpatv8M1yvkI6aRniqSR8az70e7pEtWqKmf3o8rPZxHdPFHFMJ3OZSzeu%2F%2FXp79%2FfnknE0%2FebgIGnxsY9Xa7p5MM%2FsREK8G%2B98TbRfsIqpPkr2GKJfmxwyNLnNG3G44fB7d30hEQicWwEHn0hvM03JRyViPlrvy28VjuKOtfDD6%2FxhLhbqdYTayt7lSoleKlA%2B52uV3cb2Xa6bed1ao1KmAquA%2F4BJWODurD71wEAAAAASUVORK5CYII%3D" alt="YAAGL" align="middle" loading="lazy" decoding="async" /></a>
+</p>
+
+<p align="center">
+  <strong>Currently working on <a href="https://cuetide.netlify.app" target="_blank" rel="noreferrer">Cuetide</a></strong> — a free, thoughtful companion for Apple Music on macOS with living waveforms and effortless controls.<br /><br />
+  <a href="https://cuetide.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-cuetide.netlify.app-0891b2?style=for-the-badge&labelColor=1c1917" alt="Cuetide Website" align="middle" /></a>
+  <a href="https://github.com/Nariiius/cuetide-releases" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/App_Releases-cuetide--releases-0891b2?style=for-the-badge&logo=github&labelColor=1c1917" alt="Cuetide App Releases" align="middle" /></a>
 </p>
 
 <p align="center">
